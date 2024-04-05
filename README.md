@@ -16,4 +16,4 @@ DB:PostgreSQL
 
 ## システム構成図
 
-![1712340503561](image/README/1712340503561.png)
+![システム構成図](image/README/システム構成図.png)
